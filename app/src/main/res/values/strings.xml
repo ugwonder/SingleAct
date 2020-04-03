@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SingleAct</string>
+    <string name="name">Name</string>
+    <string name="my_name">My name</string>
+    <string name="list_item">TextView</string>
+    <string name="likes">LIKES</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="dislikes">Dislikes</string>
+    <string name="todo">TODO</string>
+</resources>

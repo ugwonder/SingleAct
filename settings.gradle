@@ -1,0 +1,2 @@
+rootProject.name='SingleAct'
+include ':app'
