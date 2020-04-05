@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
     private void detailList() {
         Details list = new Details("Name:", "Mgbachi Ugochukwu");
         detail.add(list);
-        list = new Details("Slack Id:", "ugwonder");
+        list = new Details("Slack Id:", "UURQRMHT5");
         detail.add(list);
         list = new Details("Email:", "ugochukwu_mgbachi@yahoo.com");
         detail.add(list);
